@@ -116,6 +116,11 @@ big{
 	background-size: 120px 120px;
 }
 
+.ch-info-back{
+	background-image: url(../images/imagesapk/Dcloud.jpg);
+	background-size: 120px 120px;
+}
+
 .ch-info h3 {
 	color: #fff;
 	text-transform: uppercase;
