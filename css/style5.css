@@ -127,7 +127,33 @@ big{
 }
 
 .ch-img-12 { 
-	background-image: url(../images/imagesapk/ptt.jpeg);
+	background-image: url(../images/imagesapk/ptt.jpg);
+	background-size: 120px 120px;
+}
+.ch-img-13 {
+	background-image: url(../images/imagesapk/sppd.jpeg);
+	background-size: 120px 120px;
+}
+
+.ch-img-14 {
+	background-image: url(../images/imagesapk/cloud.jpg);
+	background-size: 120px 120px;
+}
+.ch-img-15 {
+	background-image: url(../images/imagesapk/library.jpg);
+	background-size: 120px 120px;
+}
+.ch-img-16 {
+	background-image: url(../images/imagesapk/sirup.png);
+	background-size: 120px 120px;
+}
+
+.ch-img-17 {
+	background-image: url(../images/imagesapk/lapor.png);
+	background-size: 120px 120px;
+}
+.ch-img-18 {
+	background-image: url(../images/imagesapk/siperkasa.png);
 	background-size: 120px 120px;
 }
 .ch-info h3 {
