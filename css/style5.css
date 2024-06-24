@@ -116,6 +116,20 @@ big{
 	background-size: 120px 120px;
 }
 
+.ch-img-perencanaan { 
+	background-image: url(../images/imagesapk/e_planning.jpeg);
+	background-size: 120px 120px;
+}
+
+.ch-img-perizinan { 
+	background-image: url(../images/imagesapk/perizinan.jpeg);
+	background-size: 120px 120px;
+}
+
+.ch-img-12 { 
+	background-image: url(../images/imagesapk/ptt.jpeg);
+	background-size: 120px 120px;
+}
 .ch-info h3 {
 	color: #fff;
 	text-transform: uppercase;
