@@ -116,13 +116,6 @@ big{
 	background-size: 120px 120px;
 }
 
-<<<<<<< HEAD
-.ch-info-back{
-	background-image: url(../images/imagesapk/Dcloud.jpg);
-	background-size: 120px 120px;
-}
-
-=======
 .ch-img-perencanaan { 
 	background-image: url(../images/imagesapk/e_planning.jpeg);
 	background-size: 120px 120px;
@@ -163,7 +156,6 @@ big{
 	background-image: url(../images/imagesapk/siperkasa.png);
 	background-size: 120px 120px;
 }
->>>>>>> 07a2222eadc9bdd4ed5664957af65567cd58ec5f
 .ch-info h3 {
 	color: #fff;
 	text-transform: uppercase;
