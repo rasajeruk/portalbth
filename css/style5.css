@@ -30,7 +30,7 @@ big{
 		inset 0 0 3px rgba(115,114, 23, 0.8);
 
 }
-
+ 
 .ch-info > div {
 	display: block;
 	position: absolute;
@@ -154,6 +154,10 @@ big{
 }
 .ch-img-18 {
 	background-image: url(../images/imagesapk/siperkasa.png);
+	background-size: 120px 120px;
+}
+.ch-img-19 {
+	background-image: url(../images/imagesapk/sig.png);
 	background-size: 120px 120px;
 }
 .ch-info h3 {
