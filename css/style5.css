@@ -160,6 +160,25 @@ big{
 	background-image: url(../images/imagesapk/sig.png);
 	background-size: 120px 120px;
 }
+.ch-img-20 {
+	background-image: url(../images/imagesapk/lpse-logo.png);
+	background-size: 120px 120px;
+}
+
+.ch-img-21 {
+	background-image: url(../images/imagesapk/tagihan.png);
+	background-size: 120px 120px;
+}
+
+.ch-img-22 {
+	background-image: url(../images/imagesapk/oss.svg);
+	background-size: 120px 120px;
+}
+
+.ch-img-23 {
+	background-image: url(../images/imagesapk/sipd.png);
+	background-size: 120px 120px;
+}
 .ch-info h3 {
 	color: #fff;
 	text-transform: uppercase;
