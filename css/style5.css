@@ -179,6 +179,10 @@ big{
 	background-image: url(../images/imagesapk/sipd.png);
 	background-size: 120px 120px;
 }
+.ch-img-24 {
+	background-image: url(../images/imagesapk/ppid.png);
+	background-size: 120px 120px;
+}
 .ch-info h3 {
 	color: #fff;
 	text-transform: uppercase;
